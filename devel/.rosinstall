@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yy/catkin_learn_ros/devel/setup.sh
